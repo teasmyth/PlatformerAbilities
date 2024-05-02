@@ -15,5 +15,6 @@ Here's a video demonstrating these abilities in the same order. The sound effect
 https://youtu.be/ZZnuCk-mylI
 
 The abilities are tied together through a character script (also added) using Unreal's Enhanced Input system and the State Machine in the link provided above.
+I have also included examples for Gravity Curves.
 
 Sliding and Dashing were made in collaboration with https://github.com/Bearshark15
