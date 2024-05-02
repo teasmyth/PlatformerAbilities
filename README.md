@@ -11,4 +11,6 @@ These are:
 - Sliding - Ability to slide, and also be able to slide before hitting the ground for a smoother experience.
 - Air Dash - Dashing towards the location we are looking at.
 
+The abilities are tied together through a character script (also added) using Unreal's Enhanced Input system and the State Machine in the link provided above.
+
 Sliding and Dashing were made in collaboration with https://github.com/Bearshark15
